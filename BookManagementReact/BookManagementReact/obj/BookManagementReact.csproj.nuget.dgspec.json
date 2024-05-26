@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj": {}
+    "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj": {
+    "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj",
+        "projectUniqueName": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj",
         "projectName": "BookManagementReact",
-        "projectPath": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj",
+        "projectPath": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\BookManagementReact.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\obj\\",
+        "outputPath": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
