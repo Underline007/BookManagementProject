@@ -1,0 +1,6 @@
+@BookManagementReact_HostAddress = http://localhost:5046
+
+GET {{BookManagementReact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
