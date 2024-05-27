@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookManagementReact")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11a29226f8cec7c1bccf6774547d3f8840d58eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookManagementReact")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookManagementReact")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

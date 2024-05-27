@@ -1,42 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\",
+  "WorkspaceRootPath": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\migrations\\20240525095903_dbinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\migrations\\20240525095903_dbinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\migrations\\20240525095903_dbinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|d:\\github\\net\\bookmanagementproject\\bookmanagementproject\\bookmanagementreact\\bookmanagementreact\\migrations\\20240526072331_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CC1E9-C915-4A06-9D0A-07F22C582206}|BookManagementReact\\BookManagementReact.csproj|solutionrelative:bookmanagementreact\\migrations\\20240526072331_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +66,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BookManagementReact\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "BookManagementReact\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:41:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BookManagementReact\\Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "BookManagementReact\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:41:13.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookManagementReact\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookManagementReact\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:25:29.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240526072331_initIdentity.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Migrations\\20240526072331_initIdentity.cs",
+              "RelativeDocumentMoniker": "BookManagementReact\\Migrations\\20240526072331_initIdentity.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Migrations\\20240526072331_initIdentity.cs",
+              "RelativeToolTip": "BookManagementReact\\Migrations\\20240526072331_initIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:23:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BookManagementReact\\Models\\AppUser.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Models\\AppUser.cs",
+              "RelativeToolTip": "BookManagementReact\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:17:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20240525095903_DbInitial.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Migrations\\20240525095903_DbInitial.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Migrations\\20240525095903_DbInitial.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Migrations\\20240525095903_DbInitial.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Migrations\\20240525095903_DbInitial.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Migrations\\20240525095903_DbInitial.cs",
               "RelativeToolTip": "BookManagementReact\\Migrations\\20240525095903_DbInitial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Repositories\\BookRepository.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "BookManagementReact\\Repositories\\BookRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "IBookRepository.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Interfaces\\IBookRepository.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Interfaces\\IBookRepository.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Interfaces\\IBookRepository.cs",
               "RelativeToolTip": "BookManagementReact\\Interfaces\\IBookRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAnwAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "BookDto.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\BookDto.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\BookDto.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Dtos\\BookDto.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\BookDto.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Dtos\\BookDto.cs",
               "RelativeToolTip": "BookManagementReact\\Dtos\\BookDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,50 +178,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "BookManagementReact\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T17:49:45.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\appsettings.json",
-              "RelativeDocumentMoniker": "BookManagementReact\\appsettings.json",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\appsettings.json",
-              "RelativeToolTip": "BookManagementReact\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-23T17:47:24.098Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookManagementReact\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookManagementReact\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T17:47:08.181Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagementReact\\appsettings.json",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\appsettings.json",
+              "RelativeToolTip": "BookManagementReact\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:47:24.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookManagementReact\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookManagementReact\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:47:08.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Models\\Book.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Models\\Book.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Models\\Book.cs",
               "RelativeToolTip": "BookManagementReact\\Models\\Book.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAewAcAAAAkAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvwcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T17:44:03.522Z"
             },
@@ -149,11 +229,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Program.cs",
               "RelativeDocumentMoniker": "BookManagementReact\\Program.cs",
-              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Program.cs",
+              "ToolTip": "D:\\Github\\Net\\BookManagementProject\\BookManagementProject\\BookManagementReact\\BookManagementReact\\Program.cs",
               "RelativeToolTip": "BookManagementReact\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAqwDAAAAAAAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T17:39:38.018Z",
               "EditorCaption": ""

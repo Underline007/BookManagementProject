@@ -3,9 +3,11 @@ using System.Threading.Tasks;
 using BookManagementReact.Dtos;
 using BookManagementReact.Interfaces;
 using BookManagementReact.Models;
+using Microsoft.AspNetCore.Authorization;
 
 [ApiController]
 [Route("api/books")]
+[Authorize]
 public class BooksController : ControllerBase
 {
     private readonly IBookRepository _bookRepository;
